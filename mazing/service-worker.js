@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/mazing/precache-manifest.421aad3a1df5c9a697cfef234f2a2453.js"
+  "/mazing/precache-manifest.ea68fbc08a5c0baa33c19295a3cc661c.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "mazing-contest"});
