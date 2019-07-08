@@ -12,7 +12,7 @@ self.__precacheManifest = [
     "url": "/mazing/js/app.d73e492a.js"
   },
   {
-    "revision": "7be1222953c897da8f2e8603c2259580",
+    "revision": "52b5d8e26afce7b5a1cd7ef2dc40c78c",
     "url": "/mazing/index.html"
   },
   {
